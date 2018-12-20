@@ -5,7 +5,7 @@ const SPANISH: TranslateStringsType = {
   ensureCare:
     'Asegurar el cuidado de un menor en el caso de deportación o detención mediante el otorgamiento de un poder notarial.',
   immigrant:
-    'Parientes imigrantes que enfrentan detenimiento o deportación con pequeño o ningun aviso. En muchos casos, ambos Parientes estan en la misma localizacion cuando son detenidos o enfrentan deportación. Como resultado, menor(es) de los Parientes detenidos y/o deportados se quedan sin ningun guardian legal. Una vez detenidos y deportados, los parientes se quedan sin acceso por dias o semanas con poco o ningun contacto con su hijo(a) o familia. Parientes enfrentando detenimiento o deportacion pueden preparar, en avanzado, para el cuido de su menor al otorgar el Poder Notarial. El Poder Notarial permite a Parientes imigrantes otorgar permiso a un adulto de confianza el cuido de su hijo menor en el evento de detencion o deportacion.',
+    'Padres imigrantes enfrentan detenimiento o deportación con poca o ninguna advertencia. En muchos casos, ambos padres estan en el mismo lugar cuando son detenidos o enfrentan deportación. Esto resulta, en menor(es) sin ningun guardian legal de los Parientes detenidos y/o deportados. Una vez detenidos y deportados, los padres se quedan sin la posibilidad, por dias o semanas, de algún contacto con su(s) hijo(s) o familia. Padres enfrentando detenimiento o deportacion pueden preparar, por avanzado, otorgar un Poder Notarial para el cuidado de su menor. El Poder Notarial permite a padres imigrantes otorgar permiso a un adulto de confianza el cuidado de su hijo menor en el caso de detencion o deportacion.',
   gettingStarted:
     "Comenzar la forma 'en linea' de Poder Notairal es rápido y fácil ",
   startForm: 'Comenzar Forma',
@@ -18,49 +18,49 @@ const SPANISH: TranslateStringsType = {
   pleaseAddState: 'Escojer un estado.',
   city: 'Ciudad',
   state: 'Estado',
-  pleaseAddZip: 'Favor de ingresar su codigo postal.',
-  zip: 'Codigo Postal',
-  numberOfChildren: 'Cantidad de menores',
+  pleaseAddZip: 'Favor de ingresar su código postal.',
+  zip: 'Código Postal',
+  numberOfChildren: 'Numero de menores en su hogar',
   minorName: 'Nombre de el menor',
   pleaseAddChildName: 'Favor de añadir nombre de cada menor.',
   motherName: 'Madre/Guardian Legal, Nombre & Dirección',
   fatherName: 'Padre/Guardian Legal, Nombre & Dirección',
-  caregiverName: 'Nombre & Direccion del Cuidador',
-  parentalStatus: 'Estado de los Padres',
-  pleaseAddParentalStatus: 'Porfavor añadir estado de los Padres.',
+  caregiverName: 'Nombre & Direccion del Tutor(a)',
+  parentalStatus: 'Estado paternal',
+  pleaseAddParentalStatus: 'Por favor añadir estado paternal.',
   pleaseAddReason: 'Añadir una razón.',
   bothParents:
-    'Ambos parientes viven, tienen custodia legal de el menor y han firmado este documento',
-  parentDeceased: 'Un pariente ha fallecido',
+    'Ambos padres viven, tienen custodia legal de el menor y han firmado este documento',
+  parentDeceased: 'Padre/Madre ha fallecido',
   legalCustodySigned:
-    'Un Pariente tiene custodia legal de el menor y ambos Parientes han firmado este documento y citan su consentimiento al Guardian',
+    'Padre/Madre tiene custodia legal de el menor y ambos padres han firmado este documento y citan su consentimiento al tutor(a)',
   legalCustodySent:
-    'Un Pariente tiene custodia legal de el menor, y ha enviado por Correo Certificado, Recibo de Retorno pedido, hacia el otro Pariente a la ultima dirección conocida, una copia de este documento y un aviso en las provisiones en § 34-6-305;',
+    'Padre/Madre tiene custodia legal de el menor, y ha enviado por Correo Certificado, con pedido de Recibo, al otro padre/madre a su ultima dirección conocida, una copia de este documento y un aviso en las provisiones en § 34-6-305;',
   legalCustodySentLink:
     'Haz clic aqui para una copia del texto de T.C.A. § 34-6-305 (2017)',
   legalCustodyNoConsent:
-    'El pariente sin custodia no a dado el consentimiento a la designacion o su consentimiento no puede ser obtenido.',
+    'El padre/madre sin custodia no a dado el consentimiento a la designacion o su consentimiento no puede ser obtenido.',
   reasonNotReached:
-    'Razon la cual el Pariente sin custodia no puede ser alcanzado:',
+    'Razon la cual el padre sin custodia no puede ser localizado:',
   powerOfAttorney: 'PODER NOTARIAL PARA EL CUIDO DE UN MENOR',
   childInformation: 'Información de el Menor',
   guardianInformation: 'Información de el Guardian',
-  caregiversInformation: 'Informacion de el Cuidador',
-  parentalstatus: 'Estado de Parientes',
+  caregiversInformation: 'Informacion de el Tutor(a)',
+  parentalstatus: 'Estado paternal',
   partI: 'Parte I:',
-  submit: 'Someter',
+  submit: 'Enviar',
   next: 'siguiente',
   formWithErrors: 'La forma tiene {{errorCount}} error(es)',
   faq: 'Preguntas Más Frequentes',
   whatIsPOA: '¿Que es un Poder Notarial?',
   poaIs:
-    'El Poder Notarial es un documento legal en el cual un Pariente autoriza a otro adulto el cuido de su menor. Al firmar el Poder Notarial, el pariente no entrega su derecho como pariente.',
+    'El Poder Notarial es un documento legal en el cual un padre autoriza a otro adulto el cuidado de su menor. Al firmar el Poder Notarial, el padre no entrega su derecho como padre/madre.',
   WhatIsThisFormUsedFor: '¿Para que es usada esta forma?',
   formWasCreated:
-    'Esta forma fue creada para parientes en Tennessee que enfrentan una amenaza de ser detenidos y/o deportados. Esta permite a parientes a encomendar a un cuidador temporero, derechos para hacer desiciones por el menor de su parte. El Poder Notarial entra en effecto solo solo si los Parientes han sido detenidos o deportados. Al completar esta forma, junto con las debidas firmas, autoriza al cuidador a inscribir a el menor en una escuela, obtener trato medico para el menor, y proveer comida para el menor, hogar, y viaje.',
-  whoShouldIChoose: '¿A quién debo escoger como cuidador?',
+    'Esta forma fue creada para parientes en Tennessee que enfrentan una amenaza de ser detenidos y/o deportados. Esta permite a padres encomendar a un cuidador temporaneo, los derechos necesarios para hacer desiciones por el menor de parte de sus padres. El Poder Notarial entra en effecto solo si los padres han sido detenidos o deportados. Al completar esta forma, junto con las debidas firmas, autoriza al tutor a inscribir a el menor en una escuela, obtener trato medico para el menor, y proveer comida para el menor, hogar, y viaje.',
+  whoShouldIChoose: '¿A quién debo escoger como tutor?',
   yourCaregiver:
-    'Su cuidador debe ser alguien en quien confia. Este documento le permite a el cuidador el derecho y responsabilidad de tomar desiciones por su menor de su parte. La persona a la que ha designado para el cuido de su menor debe ser ciudadano EE.UU. o alquien con un estado migratorio no incluya a alguien que tambien enfrenta amenaza de detenimiento o deportacion.',
+    'Su tutor debe ser alguien en quien confia. Este documento le permite a el tutor el derecho y responsabilidad de tomar desiciones por su menor de su parte. La persona a la que ha designado para el cuido de su menor debe ser ciudadano de EE.UU. o alquien cuyo estado migratorio no incluya tambien amenazas de detenimiento o deportacion.',
   howCanITerminate: '¿Como yo puedo terminar el Poder Notarial?',
   youCanTerminate:
     'Usted puede terminar el Poder Notarial en cualquier momento al ponerlo en escrito.',
